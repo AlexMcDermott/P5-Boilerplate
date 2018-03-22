@@ -1,2 +1,2 @@
-# P5-Boilerplate
-A simple p5.js boilerplate.
+# P5-CellSim
+A simple p5.js cell simulation.
